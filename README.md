@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *InstagramClone*
 
 InstagramClone is a photo sharing app similar to Instagram but using Parse as its backend.
 
@@ -23,9 +23,12 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/esti28/InstagramClone2/blob/master/Instagram%20Demo1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/esti28/InstagramClone2/blob/master/Instagram%20demo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/esti28/InstagramClone2/blob/master/Instagram%20demo3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+GIF created with GIPY.
 
 ## Open-source libraries used
 
